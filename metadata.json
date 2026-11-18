@@ -1,0 +1,6 @@
+{
+  "name": "MatheLab - Interaktiver Mathe-Trainer",
+  "description": "Einfach und spielerisch Mathe lernen: Kopfrechnen, Einmaleins-Trainer, schriftliche Rechenwege und interaktive Visualisierungen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
